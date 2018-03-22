@@ -1,0 +1,4 @@
+io/intcom/util/FileProcessorUtil.class
+io/intcom/domain/Customer.class
+io/intcom/FindNearestCustomersApplication.class
+io/intcom/util/DistanceCalculatorUtil.class
